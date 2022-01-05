@@ -1,0 +1,171 @@
+body{
+	background-color: #c5c7c4;
+	background-size: cover;
+}
+h1{
+	text-align: center;
+}
+#maDiv{
+	margin: 24px;
+	padding: 24px;
+	width: adaptive;
+	height: 40px;
+	background-color: rgba(0, 0, 50, 0.8);
+	line-height: 40px;
+	text-align: center;
+	float: center;
+	color: #FFFFFF;
+}
+header{
+	font-family: Arial;
+	margin-left: 40px;
+}
+header nav{
+	color: #FFFFFF;
+}
+header nav ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+header nav ul li{
+	margin: 0;
+	padding: 0;
+	float: left;
+	width: 16.1%;
+	height: 40px;
+	background-color: rgba(0, 0, 50, 0.8);
+	line-height: 40px;
+	text-align: center;
+	align-items: flex-start;
+}
+header nav ul li a{
+	display: block;
+}
+header nav ul li a:hover{
+	background-color: grey;
+	opacity: 0.4;
+	transition: 0.50s;
+}
+header nav ul li ul li{
+	display: none;
+}
+body{
+	background: #c5c7c4;
+	background-size: cover;
+}
+h1{
+	text-align: center;
+}
+#maDiv{
+	margin: 24px;
+	padding: 24px;
+	width: adaptive;
+	height: 40px;
+	background-color: rgba(0, 0, 50, 0.8);
+	line-height: 40px;
+	text-align: center;
+	float: center;
+	color: #FFFFFF;
+}
+header{
+	font-family: Arial;
+}
+header nav{
+	color: #FFFFFF;
+}
+header nav ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	
+}
+header nav ul li{
+	margin: 0;
+	padding: 0;
+	float: left;
+	width: adaptive;
+	height: 40px;
+	background-color: rgba(0, 0, 50, 0.8);
+	line-height: 40px;
+	text-align: center;
+	align-items: flex-start;
+}
+header nav ul li a{
+	display: block;
+}
+
+
+header nav ul li ul li{
+	display: none;
+	width: adaptive;
+}
+header nav ul li:hover ul li{
+	display: block;
+	width: 100%;
+	background-color: rgba(0, 0, 50, 0.8);
+	opacity: 0.9;
+	transition: 0.50s;
+}
+a{
+	color: white;
+}
+#principale{
+	width: 75%;
+	padding-left: 12.5%;
+	padding-right: 12.5%;
+	padding-top: 2%;
+	margin: auto;
+	text-align: justify;
+	font-size: 22px;
+	font-family: Georgia, serif;
+}
+#texte_petit{
+	font-size: smaller;
+}
+#texte_source{
+	font-size: smaller;
+	padding-right: 10%;
+	text-align: right;
+}
+#conclusion{
+	font-size: smaller;
+	float: center;
+}
+#basdepageD{
+	float: right;
+	margin: 24px;
+	padding: 5px;
+	padding-bottom: 12px;
+	width: adaptive;
+	height: 10px;
+	background-color: rgba(0, 0, 50, 0.8);
+	line-height: normal;
+	text-align: center;
+}
+#basdepageG{
+	float: center;
+	color: black;
+	padding-top: 10px;
+}
+#question{
+	text-align: center;
+	padding-top: 2%;
+	font-family: Georgia, serif;
+	margin: auto;
+	font-size: 40px;
+	text-decoration: underline;
+}
+th{
+	padding-top: 2%;
+}
+#description{
+	text-align: center;
+	margin: auto;
+	padding-left: 3%;
+	font-size: 32px;
+
+}
+table{
+	margin: auto;
+}
